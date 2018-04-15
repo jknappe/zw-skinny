@@ -81,6 +81,22 @@
 	}
 }
 
+/* Top navbar logo */
+
+.header .image {
+    background: url("http://127.0.0.1:4000/images/logo-square-30x30.png") 
+                no-repeat;
+    width: 40px;
+    height: 30px;
+}
+
+.header .image, 
+.header .text {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+
 /* Top menu navigation */
 
 .top-menu {
@@ -204,22 +220,12 @@
 		margin-top: $gutter;
 		margin-left: -$gutter;
 		margin-right: -$gutter;
-		padding: 10px 0 20px;
+		padding: 0px 0 0px;
 		background: lighten($border-color,5);
 		@include media($medium) {
 			@include span-columns(3);
 			margin-left: 0;
 			margin-right: 0;
-		}
-		&:after {
-			content: 'Advertisement';
-			position: absolute;
-			bottom: 0;
-			width: 100%;
-			text-align: center;
-			display: block;
-			@include font-size(9,no);
-			font-family: $alt-font;
 		}
 		ins {
 			border-width: 0;
