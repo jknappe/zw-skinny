@@ -12,7 +12,7 @@ We are hosting regular pop-up Zero Waste Festivals at various locations in Irela
 
 ## Zero Waste Festival: "Make It Last"
 
-**25 June 2018** <br> 
+**24 June 2018** <br> 
 St Andrews Resource Center, Dublin 2
 
 Join us for the Zero Waste Summer Festival at St Andrews Resource Center in Dublin 2 on June 25, 2018. 
