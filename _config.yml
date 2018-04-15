@@ -34,7 +34,7 @@ owner:
     ad-slot:
   bio: We are a community-run initiative to facilitate zero waste networking, learning, and sharing in Ireland through a series on pop-up festivals including workshops, talks, screenings, and meet-up sessions at various locations.
   avatar: logo-square-160.png # 160x160 px image for author byline
-  disqus-shortname: zerowastefestivalireland
+  disqus-shortname: zerowastefestival
 
 
 include:
