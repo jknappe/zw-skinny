@@ -62,9 +62,10 @@ ins {
 /* Links */
 
 a {
+	font-weight: bold;
 	color: $link-color;
 	&:hover {
-		color: darken($link-color, 20);
+		color: darken($link-color, 50);
 	}
 	&:focus {
 		@extend %tab-focus;

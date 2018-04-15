@@ -1,19 +1,16 @@
 ---
 layout: article
-title: Zero Waste Festival
+title: Zero Waste Festival - Make It Last
 
-category: festival201806
+category: 2018-06-festival
 
 image:
-  feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
+  feature: 2018-04-10/Zero-Waste-Summer-Festival-2018-banner-1200x600.png
+  teaser : 2018-04-10/Zero-Waste-Summer-Festival-2018-banner-1200x600.png
 
 comments: true
 ads: true
 share: true
 ---
 
-
-sdfdfds
-
-
-sdfdsf
+The next Zero Waste Festival will take place on June 24 at the St Andrews Resource Centre.
