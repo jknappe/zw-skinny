@@ -17,6 +17,8 @@ Join us on June 25, 2017, for the first Zero Waste Festival Ireland at the CIE I
 
 Here you find the programme for Screening Room:
 
+{% include toc.html %}
+
 #### 11:00 am - Campaigning for Zero Waste (talk)
 
 ![Elaine Butler]({{ site.url }}/images/2017-06-01/elaine.jpg "Elaine Butler"){:style="float: top;margin-right: 10px;height: 150px;"}<br>
