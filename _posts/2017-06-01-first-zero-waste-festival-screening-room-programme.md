@@ -32,8 +32,6 @@ We will be looking at policy decisions that have resulted in such an excess of w
 
 *A Quest for Meaning* is the story of two childhood friends who meet again after 10 years. Marc exports bottled water from New York whereas Nathanaël works in water collective management. After the 2008 economic crisis and a documentary therapy, Marc realizes that he is also a part of the problem. To understand where the system’s predatory logic comes from and seek food for thought and solutions, they will go and meet those who are building the world of tomorrow. This adventure will cast doubt on all their founding principles and beliefs as well as ours.
 
-Check the trailer here:
-
 <div>
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/watch?v=8yePCpWH3g0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 </div><br>
@@ -56,8 +54,6 @@ Laura also helps individuals and families declutter their homes and gives advice
 #### 4:00 pm - The Clean Bin Project (film screening)
 
 Is it possible to live completely waste free? In this multi-award winning, festival favourite, partners Jen and Grant go head to head in a competition to see who can swear off consumerism and produce the least garbage. Their light-hearted competition is set against a darker examination of the problem waste. Even as Grant and Jen start to garner interest in their project, they struggle to find meaning in their minuscule influence on the large-scale environmental impacts of our “throw-away society”.
-
-Check the trailer here:
 
 <div>
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/watch?v=tFilb-VhAGE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
