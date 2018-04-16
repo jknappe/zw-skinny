@@ -4,4 +4,4 @@ permalink: /
 title: ""
 ---
 
-{% include_relative _posts/2018-04-10-zero-waste-festival.md %}
+{% include_relative {{ site.url }}/2018-06-festival/zero-waste-festival/index.html %}
